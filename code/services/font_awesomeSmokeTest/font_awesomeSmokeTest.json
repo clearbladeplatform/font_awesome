@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,font_awesome",
+    "logging_enabled": "false",
+    "name": "font_awesomeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "font_awesomeSmokeTest.js"
+}
